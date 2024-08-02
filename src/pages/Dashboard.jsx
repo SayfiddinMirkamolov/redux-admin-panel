@@ -34,7 +34,10 @@ const Dashboard = () => {
               <Link to="students">Students</Link>
             </Menu.Item>
             <Menu.Item key="todo">
-              <Link to="todo">Todo</Link> {/* Ensure this path matches the route */}
+              <Link to="todo">Todo</Link>
+            </Menu.Item>
+            <Menu.Item key="teachers">
+              <Link to="teachers">Teachers</Link>
             </Menu.Item>
           </Menu>
         </Sider>
