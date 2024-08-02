@@ -33,6 +33,9 @@ const Dashboard = () => {
             <Menu.Item key="students">
               <Link to="students">Students</Link>
             </Menu.Item>
+            <Menu.Item key="todo">
+              <Link to="todo">Todo</Link> {/* Ensure this path matches the route */}
+            </Menu.Item>
           </Menu>
         </Sider>
         <Layout style={{ padding: '0 24px 24px' }}>

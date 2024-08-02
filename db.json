@@ -27,6 +27,18 @@
       "level": "Middle"
     }
   ],
+  "todos": [
+    {
+      "id": "777b",
+      "text": "react js",
+      "complete": false
+    },
+    {
+      "id": "5c53",
+      "text": "redux",
+      "complete": false
+    }
+  ],
   "users": [
     {
       "id": "1",
